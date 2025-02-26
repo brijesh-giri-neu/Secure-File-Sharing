@@ -12,12 +12,12 @@ This repository represents  a Secure File Transfer and Sharing Platform built us
 - JWT-Based Authentication
 
 ## Tech Stack
-**Backend**: Golang (`net/http`)
-**Database**: PostgreSQL
-**Cache & Queue**: Redis
-**Storage**: AWS S3 (or local storage for dev mode)
-**Security**: AES-256 encryption, JWT authentication
-**Deployment**: Docker, Kubernetes
+- **Backend**: Golang (`net/http`)
+- **Database**: PostgreSQL
+- **Cache & Queue**: Redis
+- **Storage**: AWS S3 (or local storage for dev mode)
+- **Security**: AES-256 encryption, JWT authentication
+- **Deployment**: Docker, Kubernetes
 
 ## Setup Instructions
 1. Clone this repository:
