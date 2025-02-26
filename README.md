@@ -47,3 +47,8 @@ This repository represents  a Secure File Transfer and Sharing Platform built us
 ## Deployment
 - Docker & Kubernetes configurations included.
 - CI/CD with GitHub Actions.
+
+
+## Status
+- Frontend - Work in Progress
+- Backend - Done
